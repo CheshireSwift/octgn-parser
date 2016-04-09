@@ -1,0 +1,19 @@
+{
+  "name": "octgn-parser",
+  "version": "1.0.0",
+  "description": "Parse OCTGN files for MtG. Query in various ways.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine"
+  },
+  "author": "Swift",
+  "repository": "https://github.com/CheshireSwift/octgn-parser",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "lodash": "^4.9.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
