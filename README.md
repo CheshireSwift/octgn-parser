@@ -1,4 +1,4 @@
-h1. OCTGN Parser
+# OCTGN Parser
 
 Rough lib to load OCTGN data files and expose a jQuery-like API for traversing
 them.
