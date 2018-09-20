@@ -1,5 +1,7 @@
 # OCTGN Parser
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CheshireSwift/octgn-parser.svg)](https://greenkeeper.io/)
+
 Rough lib to load OCTGN data files and expose a jQuery-like API for traversing
 them.
 
