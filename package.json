@@ -10,10 +10,10 @@
   "repository": "https://github.com/CheshireSwift/octgn-parser",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^0.20.0",
+    "cheerio": "^0.22.0",
     "lodash": "^4.9.0"
   },
   "devDependencies": {
-    "jasmine": "^2.4.1"
+    "jasmine": "^3.2.0"
   }
 }
